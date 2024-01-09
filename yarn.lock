@@ -2635,113 +2635,113 @@
     read-package-json-fast "^3.0.0"
     which "^4.0.0"
 
-"@nrwl/angular@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2fangular/-/angular-18.0.0-katel.0.tgz#9cc2b9b46581ecfa154c5686c8579ee485ace8a2"
-  integrity sha512-abkZ/RWSNfgFuryUehZ4E8Dq3pub1oRdKV1/BskfdkK/UWFU7zMDNS0PsNIU6H6GiUibOldHeU/8yYB+iQGngw==
+"@nrwl/angular@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2fangular/-/angular-18.0.0-katel.1.tgz#cb526d41616006a4fe1b312de1da746f4708bd17"
+  integrity sha512-bon/jyD3CACGqnHxPZ6KA/cJXqlAPTO69inCbY76LRj7I1Ee3lKw4JTH/1rcVwpX12l9l2QaAsEvDq+05uINHw==
   dependencies:
-    "@nx/angular" "18.0.0-katel.0"
+    "@nx/angular" "18.0.0-katel.1"
     tslib "^2.3.0"
 
-"@nrwl/cypress@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2fcypress/-/cypress-18.0.0-katel.0.tgz#e2a49c7e931ddf0eb85744a1e31ffbea451266bb"
-  integrity sha512-jrlO8uSxsul75p8DsNLPbvrLB3gabT5De5yWzvkdY2ZOQK3/w9ami4VDnWAlMONn4bywbZVMz5RewA+kj1Tf+A==
+"@nrwl/cypress@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2fcypress/-/cypress-18.0.0-katel.1.tgz#485e33d147a3221e6e0d7f277d1fc8bb8a4ff4db"
+  integrity sha512-VW8iPDIAqkTpN5N+ToSnwn3CFjDwSDkH0yKHEYPhRKf6z+llXOHOVaTNkCIktIt8zzy8mR/MCcXAsX7lhHMkTw==
   dependencies:
-    "@nx/cypress" "18.0.0-katel.0"
+    "@nx/cypress" "18.0.0-katel.1"
 
-"@nrwl/devkit@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2fdevkit/-/devkit-18.0.0-katel.0.tgz#6e00c1e546b6af3f7f277b7598661c9e5c01de1d"
-  integrity sha512-GvYM8pN2xw5yQW1B+9fTxeEvVIBMa5htTixtc1do1yutBpsl9d5TyvBilb3eISvuwHqQh2ISiVLbNw0SB1JlGg==
+"@nrwl/devkit@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2fdevkit/-/devkit-18.0.0-katel.1.tgz#7aeaa59c4b9e57db36f3443be8fb112637f38088"
+  integrity sha512-RWts6rBMhG1D2gQueMNrpip8iucxA4mwFmHLk/SJ6HtZJlvyRyCzOLLaib7KFCOaZIIAtcMKIutQ3RkEbg5/6w==
   dependencies:
-    "@nx/devkit" "18.0.0-katel.0"
+    "@nx/devkit" "18.0.0-katel.1"
 
-"@nrwl/eslint-plugin-nx@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2feslint-plugin-nx/-/eslint-plugin-nx-18.0.0-katel.0.tgz#f6bec96ed5577ff6932048a711719dcb4c00ce83"
-  integrity sha512-D8YPcltiwGjQeIZKPqM6aTe6kE2PYl57ldlgkK8BhLi9UNQ8ocVDEIQoWGkGLwoWdxq7g+xydsJCjuN8OIUPIA==
+"@nrwl/eslint-plugin-nx@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2feslint-plugin-nx/-/eslint-plugin-nx-18.0.0-katel.1.tgz#9a1db86765cf14e92c3ae86444a61cc6607aa499"
+  integrity sha512-Iivcbpj0iopsc2qI0SXrJb1CPOZcrp0MEI7Q5F7ei3c5DklBdnUvRcnMR8tm+m699vVuocAm5ZB+vKNWZQ5+5g==
   dependencies:
-    "@nx/eslint-plugin" "18.0.0-katel.0"
+    "@nx/eslint-plugin" "18.0.0-katel.1"
 
-"@nrwl/jest@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2fjest/-/jest-18.0.0-katel.0.tgz#c068963b0df22da4d4615e94def27549fa67f1bd"
-  integrity sha512-260+Lkw3hdTAdU7RyZggjzqPrlUctIp+JoVc5REPdYDM/qVWO+oj/iZbxg1+RVXMtPRG/nf6lPfVRTlr4VWlWQ==
+"@nrwl/jest@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2fjest/-/jest-18.0.0-katel.1.tgz#07d9da317dfdcb71f0437e0596afc8fc6cab1f01"
+  integrity sha512-MtZDGcTAQ+SKeWLeR8w6sSONOi49tRjs+bvon4nnO/yipLVFZmR/71Fdo4ZF6Nloi4lnqGDKm9xtqQt8aC4rJg==
   dependencies:
-    "@nx/jest" "18.0.0-katel.0"
+    "@nx/jest" "18.0.0-katel.1"
 
-"@nrwl/js@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2fjs/-/js-18.0.0-katel.0.tgz#97c0d48eb1c1762854b9a973d4449d874f4884e1"
-  integrity sha512-OSxDLLLNktRwQ8uuW4SUe7uL/shMW187ti6KMIN5j1w/IDvqj0R5zSXxe7DtxceO4X3jDdDgxTCj8lBHOkd4rw==
+"@nrwl/js@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2fjs/-/js-18.0.0-katel.1.tgz#ecb9427d20cc44c9443c06170eb10e8132c67c3e"
+  integrity sha512-98zuTvUoHxlR3WWqVRqsV2cpal8jzBTPyVb/jSa9VAn1RRnueUwgo5IkA+8RUEJMG2wIQc77FuyaA0mj5Z4mSg==
   dependencies:
-    "@nx/js" "18.0.0-katel.0"
+    "@nx/js" "18.0.0-katel.1"
 
-"@nrwl/react@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2freact/-/react-18.0.0-katel.0.tgz#f17b227da706a5f56f92f17c03ad7044d89fdae5"
-  integrity sha512-L+xpqkPXUcqPkiG0tdwsmSkTnCHr250xs5wHnZMZ/2kXdWa6ki7/JaMuX2Z9Dgn4cHWXtcRlldumcSFPVaTKEg==
+"@nrwl/react@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2freact/-/react-18.0.0-katel.1.tgz#169b79f1438ca8826900dcc65ca92587cba1c2d9"
+  integrity sha512-YDyPj9+NueSEeo0NTtZssq8J48QP6vBh3A9q8PNmCilQw75u96nTjdD5usr39jYAbl+Elhbe/hNG8M1iIaZP5A==
   dependencies:
-    "@nx/react" "18.0.0-katel.0"
+    "@nx/react" "18.0.0-katel.1"
 
-"@nrwl/storybook@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2fstorybook/-/storybook-18.0.0-katel.0.tgz#4846a9631f9d5a18fc8fc2a7df2e84ba16561f1d"
-  integrity sha512-4yEHJe1PfqVYl9prDrj2jSUjGBeIcCb1u/bexYccgalES8uWKMrCogIIQ4Ou/lyI5Yd543vVKPjVs1/LmxXN+g==
+"@nrwl/storybook@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2fstorybook/-/storybook-18.0.0-katel.1.tgz#3dc2696e69e1059b4ad85e3b15a2feb14db26bf0"
+  integrity sha512-CvDdhNpWt/4bV2xS1XdxQHqJ7ZUDCBkNC7w9fX4vu/MivPoaafKZH5ZCCUH973EAPy9ZXyElOzNS244dWgHzUg==
   dependencies:
-    "@nx/storybook" "18.0.0-katel.0"
+    "@nx/storybook" "18.0.0-katel.1"
 
-"@nrwl/tao@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2ftao/-/tao-18.0.0-katel.0.tgz#14038282acb11bc5418266ec5fadff32cd3416e3"
-  integrity sha512-G3B5VQbGAT60cN8XBmpWpEcNbdjLg0ByEoJElz3IGNuGnt7MYmypyg/FoVOYkV5V7lRg024HWnOhtem4LraT3Q==
+"@nrwl/tao@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2ftao/-/tao-18.0.0-katel.1.tgz#e9aa433fa46df6142912d2269aab060f0de34dcb"
+  integrity sha512-jodTLwwUqooHmzOVw6QiuPSPQvsMwmiDxiasXKJmPI0Q6iW0rp9MBFTveOweHfe/GljI+5dMUTN22mNRXFp+qA==
   dependencies:
-    nx "18.0.0-katel.0"
+    nx "18.0.0-katel.1"
     tslib "^2.3.0"
 
-"@nrwl/vite@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2fvite/-/vite-18.0.0-katel.0.tgz#55a437c382caddee62b79e89113618c58fde0459"
-  integrity sha512-4SQdQI3+ZXAGDVYKD86EI7PbL/Ik1d658rYewlXNO2erFcTWmPEY9VG9Qg9WFkYCu/nQ9QsvqLVHyKmfNU8kCQ==
+"@nrwl/vite@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2fvite/-/vite-18.0.0-katel.1.tgz#2607975afa7f05f26bd4b792a0f4c5a689e1db32"
+  integrity sha512-nhgALALRbeBGZwJCPSQJ/JoT/0977JojhIk3T/MB5d6iYLKVY1muRtFl77xO2YjD8XMiPY71Clk+Q9shAQAAwg==
   dependencies:
-    "@nx/vite" "18.0.0-katel.0"
+    "@nx/vite" "18.0.0-katel.1"
 
-"@nrwl/web@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2fweb/-/web-18.0.0-katel.0.tgz#8399fd6b76260c7b4bc3b299a59ed4ae4d7debe4"
-  integrity sha512-muiUVrD0dNUaZgclg8BNnvXcdc/pW7ChR3hpolh/lws65Ihx9JE+nv8JTkb+F/olahcXrsBTFIxMAo8GxxZCFA==
+"@nrwl/web@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2fweb/-/web-18.0.0-katel.1.tgz#dba4e01d09873a482f4b20528c7312020673ef3b"
+  integrity sha512-R4/oC5kUqH2HnmTiJSDxOu4FpTuXEkG2lIV/1kceXnAT9jbPtFXuY4YYjxGNQPZGyGPVWx+B8D1zAZYZwUkU/g==
   dependencies:
-    "@nx/web" "18.0.0-katel.0"
+    "@nx/web" "18.0.0-katel.1"
 
-"@nrwl/webpack@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2fwebpack/-/webpack-18.0.0-katel.0.tgz#f91e21788c4d2b823230be804ea5e890b0982cc7"
-  integrity sha512-+TtT75eeaibuVPOOL8XQ3dnHnCsCf4do5tckERuTxinjoMfbt+PTuIfjgKvcHojI8UnYZf1AfjmX9k7imlTVIQ==
+"@nrwl/webpack@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2fwebpack/-/webpack-18.0.0-katel.1.tgz#cdaeaf46393029e2bab725826c95d4f0bd04179d"
+  integrity sha512-yU4/fDAjglCYYf5+JCAvJfbax2euLmI8UxlC6X+nACOObxUVo7sVhazQ++Y9n77+tVW6J6vWRVT5a0SSPQHR9g==
   dependencies:
-    "@nx/webpack" "18.0.0-katel.0"
+    "@nx/webpack" "18.0.0-katel.1"
 
-"@nrwl/workspace@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nrwl%2fworkspace/-/workspace-18.0.0-katel.0.tgz#ca5b23db4993200194dd94ea893e688424a353d7"
-  integrity sha512-Dshswm+L7MJ9qzvsAueM5daLubUI3ZeEj+lflX8hjl5+I2HDZgdsxFgrJ9OOGCwFCwVC5/DJQwx4tJsfFKNzAw==
+"@nrwl/workspace@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nrwl%2fworkspace/-/workspace-18.0.0-katel.1.tgz#b3094fb1a470291769c051ac437258879def1559"
+  integrity sha512-Q1ojTDHVcmqshLAQpATnH4naCgRnzz/NQTXOiaSbM0hwc5lzNR7l2SNYH7Z7yCat3hb8rk/xeuOO7AzSKD89rw==
   dependencies:
-    "@nx/workspace" "18.0.0-katel.0"
+    "@nx/workspace" "18.0.0-katel.1"
 
-"@nx/angular@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fangular/-/angular-18.0.0-katel.0.tgz#a09e311e101e4190ce78f4e51e1bf9b836b4bd01"
-  integrity sha512-6R6K/G28KoJI+FaV01/tlON1uWa46QB6sUNacyjIObtDCDJJMmemBk4g8n3ynjdo9bD0qXqahJfyw1uNwdRzkA==
+"@nx/angular@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fangular/-/angular-18.0.0-katel.1.tgz#60fc0e7dba27feab3ddf68732ad6248962995051"
+  integrity sha512-GPal5q4wzO2FONJR+4ZEA1/Vknk2M7fK7c+VfydJqL/FC783suorXkITLDh4gtCMuIEfo6mIYPwCvCcNE0KE0A==
   dependencies:
-    "@nrwl/angular" "18.0.0-katel.0"
-    "@nx/cypress" "18.0.0-katel.0"
-    "@nx/devkit" "18.0.0-katel.0"
-    "@nx/eslint" "18.0.0-katel.0"
-    "@nx/jest" "18.0.0-katel.0"
-    "@nx/js" "18.0.0-katel.0"
-    "@nx/web" "18.0.0-katel.0"
-    "@nx/webpack" "18.0.0-katel.0"
-    "@nx/workspace" "18.0.0-katel.0"
+    "@nrwl/angular" "18.0.0-katel.1"
+    "@nx/cypress" "18.0.0-katel.1"
+    "@nx/devkit" "18.0.0-katel.1"
+    "@nx/eslint" "18.0.0-katel.1"
+    "@nx/jest" "18.0.0-katel.1"
+    "@nx/js" "18.0.0-katel.1"
+    "@nx/web" "18.0.0-katel.1"
+    "@nx/webpack" "18.0.0-katel.1"
+    "@nx/workspace" "18.0.0-katel.1"
     "@phenomnomnominal/tsquery" "~5.0.1"
     "@typescript-eslint/type-utils" "^6.9.1"
     chalk "^4.1.0"
@@ -2754,26 +2754,26 @@
     webpack "^5.80.0"
     webpack-merge "^5.8.0"
 
-"@nx/cypress@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fcypress/-/cypress-18.0.0-katel.0.tgz#120b34a793b5a21ec516e160132cdda8aa6c17b7"
-  integrity sha512-F38V4K4B0x6xvo7p6qdn4Y9c+8Lr29RZMbF0hwEQZYXIeWE8+RAn+xai0YfuUoq5cFwVPxUdSS/U4VG4je9JgA==
+"@nx/cypress@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fcypress/-/cypress-18.0.0-katel.1.tgz#5984ce44b5ff65bd7c887b2a2dbb78c7d5879e6a"
+  integrity sha512-tRt45nru4ppLYLVFP4sc5Vwpa9QJUpBC0OTYpvhriAuHsc1Z1IWJEXtC1AtYTcA9BkEa+OR3kvSfXuMaDh+FXQ==
   dependencies:
-    "@nrwl/cypress" "18.0.0-katel.0"
-    "@nx/devkit" "18.0.0-katel.0"
-    "@nx/eslint" "18.0.0-katel.0"
-    "@nx/js" "18.0.0-katel.0"
+    "@nrwl/cypress" "18.0.0-katel.1"
+    "@nx/devkit" "18.0.0-katel.1"
+    "@nx/eslint" "18.0.0-katel.1"
+    "@nx/js" "18.0.0-katel.1"
     "@phenomnomnominal/tsquery" "~5.0.1"
     detect-port "^1.5.1"
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/devkit@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fdevkit/-/devkit-18.0.0-katel.0.tgz#6f6b11caedb13a312eb19b984d29d7308cf651b9"
-  integrity sha512-JR+LycDapQ12ba8eugCMdBtd4phE0rmjIq4vWoc9IaZQAISaj1W0xYH9S/CcazUDr4ihmbQvGmNTv4iQo216fw==
+"@nx/devkit@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fdevkit/-/devkit-18.0.0-katel.1.tgz#2facdf12d358e796252f16b313247c26b3bacdfd"
+  integrity sha512-H2d8N3jxp15vYi7If0zWQgjGeHuUMtBu+YsEY2qKOlwhr6bJMHLtWD//D4ajnDHgFKd5vzz9SH587qvQkNDFgA==
   dependencies:
-    "@nrwl/devkit" "18.0.0-katel.0"
+    "@nrwl/devkit" "18.0.0-katel.1"
     ejs "^3.1.7"
     enquirer "~2.3.6"
     ignore "^5.0.4"
@@ -2781,14 +2781,14 @@
     tmp "~0.2.1"
     tslib "^2.3.0"
 
-"@nx/eslint-plugin@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2feslint-plugin/-/eslint-plugin-18.0.0-katel.0.tgz#9c6841a08480846db67f75d97de7ab4d51e99ecb"
-  integrity sha512-ScoTAOXJA9ryAyLxhCz90z/5Oev+6/GFz7L8Si4nNoVzL+QDdwbvdONe7MbljUFX5XI1LLAE2m5j4b7yVJiFTA==
+"@nx/eslint-plugin@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2feslint-plugin/-/eslint-plugin-18.0.0-katel.1.tgz#744e83e6486347fb913f8f5f7ff5fa7ca73fa41b"
+  integrity sha512-8GAeliA2BcoKEFSmg/FJqxK0Fqig8e9AxS7RchjtSYKRgIpYhe137mHx4YVL0rVrTCDefCkm2zpVigmkv0fJ3Q==
   dependencies:
-    "@nrwl/eslint-plugin-nx" "18.0.0-katel.0"
-    "@nx/devkit" "18.0.0-katel.0"
-    "@nx/js" "18.0.0-katel.0"
+    "@nrwl/eslint-plugin-nx" "18.0.0-katel.1"
+    "@nx/devkit" "18.0.0-katel.1"
+    "@nx/js" "18.0.0-katel.1"
     "@typescript-eslint/type-utils" "^6.13.2"
     "@typescript-eslint/utils" "^6.13.2"
     chalk "^4.1.0"
@@ -2797,27 +2797,27 @@
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/eslint@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2feslint/-/eslint-18.0.0-katel.0.tgz#1fa3232a2effbb37c7c5f7f7f97e340ed33a2c23"
-  integrity sha512-bDCk2CddsKO2/qAYQdMjpMrT1ADzXKhR9AqIYbnU9bMIoVAVEQ9qjlvEgnEFLr9KsIWt9ttl/Jb0xluzrZI4Nw==
+"@nx/eslint@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2feslint/-/eslint-18.0.0-katel.1.tgz#3622f380bbb9a0728e0b1292d76beb1fb5c457b0"
+  integrity sha512-uvz8DPM7QzZXiAk1qNI+q0fR+c/8kkDDlyErrlBuuu7/aUaCjt2BkVxFibRvjvGPOBDJ9HKbNZzc8RxDxqcg+g==
   dependencies:
-    "@nx/devkit" "18.0.0-katel.0"
-    "@nx/js" "18.0.0-katel.0"
-    "@nx/linter" "18.0.0-katel.0"
+    "@nx/devkit" "18.0.0-katel.1"
+    "@nx/js" "18.0.0-katel.1"
+    "@nx/linter" "18.0.0-katel.1"
     tslib "^2.3.0"
     typescript "~5.2.2"
 
-"@nx/jest@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fjest/-/jest-18.0.0-katel.0.tgz#49ad6a30be4be32dc6984936d2db65d441903336"
-  integrity sha512-2bWBRYu0vq94698+cM4vBgN7fcmF5exhZsIbMiGQnaO45cQfWcW/cJujmV7NQ8wPLSrKD/lH04+02ZAA4VRDJw==
+"@nx/jest@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fjest/-/jest-18.0.0-katel.1.tgz#6d1a61b30f40614432ee42a70835878c99813271"
+  integrity sha512-IUnR+qFGOcbhPDlDtfguQjil+1bJPz5VmDpHn0OOJ8fy5A5OFAmZeG+iaBQifjNsg+0sy4zX3CqAB062YiS0TA==
   dependencies:
     "@jest/reporters" "^29.4.1"
     "@jest/test-result" "^29.4.1"
-    "@nrwl/jest" "18.0.0-katel.0"
-    "@nx/devkit" "18.0.0-katel.0"
-    "@nx/js" "18.0.0-katel.0"
+    "@nrwl/jest" "18.0.0-katel.1"
+    "@nx/devkit" "18.0.0-katel.1"
+    "@nx/js" "18.0.0-katel.1"
     "@phenomnomnominal/tsquery" "~5.0.1"
     chalk "^4.1.0"
     identity-obj-proxy "3.0.0"
@@ -2827,10 +2827,10 @@
     resolve.exports "1.1.0"
     tslib "^2.3.0"
 
-"@nx/js@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fjs/-/js-18.0.0-katel.0.tgz#553bc4fb3edfabd203b8defd29ef80d48511ca89"
-  integrity sha512-mc505iiqiY0sKL3mCoey7IIq6N9xxXAZIM/Uwi+jLI2vBSI6eqLT4SrqhR/ukd5gFZTA9sAvtrxK7KZO9ob80w==
+"@nx/js@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fjs/-/js-18.0.0-katel.1.tgz#9d97d6b97f6f05e8bb48438fbb5ae8de9179dfd6"
+  integrity sha512-XLH3rRipHNDZomFup5TehWUNZlY0wNusxeLh+ueMr+VTm5MpgbdwGZ1jehylEd8CjRTxjPkDaaM/x4CsQ1hZ3g==
   dependencies:
     "@babel/core" "^7.22.9"
     "@babel/plugin-proposal-decorators" "^7.22.7"
@@ -2839,9 +2839,9 @@
     "@babel/preset-env" "^7.22.9"
     "@babel/preset-typescript" "^7.22.5"
     "@babel/runtime" "^7.22.6"
-    "@nrwl/js" "18.0.0-katel.0"
-    "@nx/devkit" "18.0.0-katel.0"
-    "@nx/workspace" "18.0.0-katel.0"
+    "@nrwl/js" "18.0.0-katel.1"
+    "@nx/devkit" "18.0.0-katel.1"
+    "@nx/workspace" "18.0.0-katel.1"
     "@phenomnomnominal/tsquery" "~5.0.1"
     babel-plugin-const-enum "^1.0.1"
     babel-plugin-macros "^2.8.0"
@@ -2863,73 +2863,73 @@
     tsconfig-paths "^4.1.2"
     tslib "^2.3.0"
 
-"@nx/linter@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2flinter/-/linter-18.0.0-katel.0.tgz#6a52403806aeaac4a155bf57426e350cf2babdfb"
-  integrity sha512-OVIBs62OCE/FjVJgUg4ct5BqkvZioeLunPnreB6MqQetXn+4NAqfCcdPgb2ZeJLqk2kGed+XujPiGushl0++Bg==
+"@nx/linter@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2flinter/-/linter-18.0.0-katel.1.tgz#f14ff80278e75ce83966728f94e2ca86c2aef067"
+  integrity sha512-C91Es5tAM1Wl1AAN662yCJsh7TREGV8sPX8OoyCHnRnqGNdolBLZjxCC1clrivpL2A8OvJGyAw/mEM+BaaVJtQ==
   dependencies:
-    "@nx/eslint" "18.0.0-katel.0"
+    "@nx/eslint" "18.0.0-katel.1"
 
-"@nx/nx-darwin-arm64@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fnx-darwin-arm64/-/nx-darwin-arm64-18.0.0-katel.0.tgz#6975babe5366f827635ff4cf8aa086abb7910d3e"
-  integrity sha512-dCRcEAdbfRj1u6VsflyCj6ve+MT81n/7ODCjCVsloQfu+tUmk5nRm0uSTJnWq+N4QVnetmyIpZ24GBcIczljBw==
+"@nx/nx-darwin-arm64@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fnx-darwin-arm64/-/nx-darwin-arm64-18.0.0-katel.1.tgz#83b6540e221f5db56f1b1554a60c13944cf99731"
+  integrity sha512-MBTEGJD/wDDxNbZ2AIfS5MUuHPu/EkNRPDCFdHT88Lq/mBwZqZ7JuUJhN5PRmD1Z5z6noG2rC1m4RuDRZRYI+g==
 
-"@nx/nx-darwin-x64@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fnx-darwin-x64/-/nx-darwin-x64-18.0.0-katel.0.tgz#801afdab9611e1a0d92b885fc7c8584258c54c02"
-  integrity sha512-FFiIp/vg+B0d7N/hJrVnRZBmsL1YzHQUUutiv97j7bQsA/F33Siion6oOyNqpbXfEr7sensJ4RHN0niG2RxtOg==
+"@nx/nx-darwin-x64@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fnx-darwin-x64/-/nx-darwin-x64-18.0.0-katel.1.tgz#0ee481b6e58c9d94435a74134a3aa98aa5cf7239"
+  integrity sha512-uT1tHTwN6xmKUMOPrxfgsEkncYrFUB3NC4tBrXetba73baN6mRmGy6MHsjg4ZcFbOJQEkH/TH3zerwoQHuq4RQ==
 
-"@nx/nx-freebsd-x64@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fnx-freebsd-x64/-/nx-freebsd-x64-18.0.0-katel.0.tgz#47916e4b7438614e3664319b1b2d28711ba6331e"
-  integrity sha512-64WR5Oj1j3cIhAnDbTuWv93Brmco/xN1UdEGCWZHZz5C5miBJ/OHmJntTgiEowswYkX/3b9PnxO8Z2dAmKoqUQ==
+"@nx/nx-freebsd-x64@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fnx-freebsd-x64/-/nx-freebsd-x64-18.0.0-katel.1.tgz#dc3c0d6c75beaa966dfc32ae251193077d093cbc"
+  integrity sha512-hKKVF5n31e42SEhmJc4td4jdhy+wE2f38fG+V8uqPlHSI35saBgRN05vW4CsXA99C/H9VNgSDKB0jqHIYRNs8g==
 
-"@nx/nx-linux-arm-gnueabihf@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fnx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-18.0.0-katel.0.tgz#2f678fa46b483b0df4598ef2a3cea540cb1bd550"
-  integrity sha512-zcgHuHCoLVHYPrNLV7wXFaIzAl5vZn9wvfuEufY3KwF/49dRLz5r8IrBoqN6ZKb/pE1a+sVO5fp022Vm0RTfeA==
+"@nx/nx-linux-arm-gnueabihf@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm-gnueabihf/-/nx-linux-arm-gnueabihf-18.0.0-katel.1.tgz#96104318e322f373ced942de8df3436d3341351f"
+  integrity sha512-woGxeZB9j88qMXyhE8UFGu7iIeiSQgqncz+vWl9ONU+5vagD6zCX0cpXjgfZWf4JfOEE/AqFLJ1HAZ/mmpZ7ow==
 
-"@nx/nx-linux-arm64-gnu@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-gnu/-/nx-linux-arm64-gnu-18.0.0-katel.0.tgz#6ade89b23b48bcffd5d614c1c0df6ecd82c38096"
-  integrity sha512-Oin4Bt2AL8FdMWgEhzE7FpYdkuL9tR7iYmSTAzHbb4F0GvaSoAiTdqjoLhuQNJtUDNnwo1J60j1AasSaauo4dA==
+"@nx/nx-linux-arm64-gnu@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-gnu/-/nx-linux-arm64-gnu-18.0.0-katel.1.tgz#466c7647809476008d58a43299da66d708bf3577"
+  integrity sha512-RGfdae2cY3yNi4Gl8NK/Z2eGRALQNk2caxSV6EyMKNd1Bc/6dVdFseKl4dTEX9CCLa1mrExEKT73FPOxP4Y3qg==
 
-"@nx/nx-linux-arm64-musl@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-musl/-/nx-linux-arm64-musl-18.0.0-katel.0.tgz#4e01a98926d1b65ca2aaee30b7e88acf9c423fe7"
-  integrity sha512-A5kQPm9/OLFk3s4c/3dFFNlPgy3R5Q7tw2SNo1X4UbItM9MKYY2+xTD7BllVD5OYlRGxtpRXSMbFs4bU323BjQ==
+"@nx/nx-linux-arm64-musl@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fnx-linux-arm64-musl/-/nx-linux-arm64-musl-18.0.0-katel.1.tgz#7b8d8f5d647ad202be6f303d822a5d0bd6dd850d"
+  integrity sha512-h909imUtaiKa97dMQXzmKfelsQnwPnSfFYcz9hw2H8AcFlXwX8ejulOqCrTGakloOVWP6wQZ42Q/fWOumGzcyg==
 
-"@nx/nx-linux-x64-gnu@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fnx-linux-x64-gnu/-/nx-linux-x64-gnu-18.0.0-katel.0.tgz#86a0e2f6fb81313cdb6859ec4009457d03a1fde8"
-  integrity sha512-ptrO6mLUB25EuEnnvV8FYDBotNJoz//iPqrRMA5XeurlgBqbbIbmLPw9at8xYlGhnpVnrzjCK2LVrM8RqpQ0bQ==
+"@nx/nx-linux-x64-gnu@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fnx-linux-x64-gnu/-/nx-linux-x64-gnu-18.0.0-katel.1.tgz#1ec7ac26d6aa773e2f5e490700ddb360abf25fc5"
+  integrity sha512-xck4d0sFfPWhzEygJfL2mC3jTsT8GLCDRhIFkQx7O/R972vYTVkojBHAVZrs3UmHg9a+FzUOYqUmmBE2gBQFPw==
 
-"@nx/nx-linux-x64-musl@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fnx-linux-x64-musl/-/nx-linux-x64-musl-18.0.0-katel.0.tgz#107d59b0ebf3e73af6bb3717d83e909a3a9b353a"
-  integrity sha512-+6QDJ3eToqL4lnxmm8XGhl17BoY16Ovas8gqG1iug7u2vp73tiHI8W0MceczXC35ZaK9XqUuuN+0RjLVE9+I7w==
+"@nx/nx-linux-x64-musl@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fnx-linux-x64-musl/-/nx-linux-x64-musl-18.0.0-katel.1.tgz#3cd5558e6d8e78aa3e16fa740168ba8d1d706529"
+  integrity sha512-WkGf8WIV9OByrxJEJ5YXfr09ALFWgBdgYpkQA64Rywt+ySPTgn0RdmTqxZu8IT6OMO++G1PolAysEE2BnJk7/A==
 
-"@nx/nx-win32-arm64-msvc@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fnx-win32-arm64-msvc/-/nx-win32-arm64-msvc-18.0.0-katel.0.tgz#f9714d69dbc7f669b74b3a53f74f614bc0c9d598"
-  integrity sha512-lackrcsa7IwlQrBTKlfJP0J70lHV/WwiXiAFYseEzGvmKpjKSGDRxwjfis8n+xfXiJb6G3elrF6hxKhVzxhvqA==
+"@nx/nx-win32-arm64-msvc@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fnx-win32-arm64-msvc/-/nx-win32-arm64-msvc-18.0.0-katel.1.tgz#6ce91b369cea75ac29b8d8edebc2ca6578f8e0be"
+  integrity sha512-k6+JcaJ00k+6XMeCKCoi22pimNdJeIdDNpWsLarY2WedV6dOgWKm56MO5SQwiR4zc3YYuHuHomRXhYCU7xya3g==
 
-"@nx/nx-win32-x64-msvc@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fnx-win32-x64-msvc/-/nx-win32-x64-msvc-18.0.0-katel.0.tgz#1122d81bca1cf3474a79f2c4abe394daa6a2d805"
-  integrity sha512-Rz6xExYNo2HMHN5Ou5oyF4Fj/ItIxjYaPBtLYc34ErJEoSFHReLUQ+RlcRY4+vZSNg3KEuRLyRyt4xPXEVg/Yw==
+"@nx/nx-win32-x64-msvc@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fnx-win32-x64-msvc/-/nx-win32-x64-msvc-18.0.0-katel.1.tgz#5e900a1f7eafa2f021f4d499c693a516ab08e934"
+  integrity sha512-BkArPcml+5ZQAgJ53qjhXUXIJlAfH0cJQEGuIeqv43Al1IJKONpHN51WiuqwESO06gYA/+duoqYM1KooAP/Wpg==
 
-"@nx/react@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2freact/-/react-18.0.0-katel.0.tgz#cb8bf7db23949c50e7c13603328a2a6e30d7fc3c"
-  integrity sha512-phEVYrkv8VQr7/d+MJbx40Y0N+AkZShCuFcq6RVBPIZiklLwbrX67ISyXVj6RCClOP+ARwSU1Sd3ZGBaY+OUqw==
+"@nx/react@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2freact/-/react-18.0.0-katel.1.tgz#822805a36eb2bcf21aaf0ea95d13aac1ea78d80d"
+  integrity sha512-BoHGgD+NSPc7xBEi6gwd1ef2YDcwhSbKhGVXyCGdk4YrLh24x7wTGxD7RlUvE5VdKjTmp8c3jRzY6Z5v5zHUWA==
   dependencies:
-    "@nrwl/react" "18.0.0-katel.0"
-    "@nx/devkit" "18.0.0-katel.0"
-    "@nx/eslint" "18.0.0-katel.0"
-    "@nx/js" "18.0.0-katel.0"
-    "@nx/web" "18.0.0-katel.0"
+    "@nrwl/react" "18.0.0-katel.1"
+    "@nx/devkit" "18.0.0-katel.1"
+    "@nx/eslint" "18.0.0-katel.1"
+    "@nx/js" "18.0.0-katel.1"
+    "@nx/web" "18.0.0-katel.1"
     "@phenomnomnominal/tsquery" "~5.0.1"
     "@svgr/webpack" "^8.0.1"
     chalk "^4.1.0"
@@ -2937,55 +2937,55 @@
     minimatch "3.0.5"
     tslib "^2.3.0"
 
-"@nx/storybook@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fstorybook/-/storybook-18.0.0-katel.0.tgz#364a8ee3b1e534433f04a2b4f1414b42e088b5f9"
-  integrity sha512-GyTkWTz9N4kiiJ9I/bX264wrH+2bg52eG2CepuqHyWPClqiXTMOtEIAZyIRJIMa3f9oI4BM663U4d/tvQ3+TbQ==
+"@nx/storybook@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fstorybook/-/storybook-18.0.0-katel.1.tgz#be355bf0edff103a035ba7723179ebd96cdbd879"
+  integrity sha512-CTIXGcLTFLwG+XyeCWQGJT3cGYnL70+8DevP5mJMtr/4+kGWN07Le36RfwRQvJwLhZ/AmSjzRk3dcwgmpNoefw==
   dependencies:
-    "@nrwl/storybook" "18.0.0-katel.0"
-    "@nx/cypress" "18.0.0-katel.0"
-    "@nx/devkit" "18.0.0-katel.0"
-    "@nx/eslint" "18.0.0-katel.0"
-    "@nx/js" "18.0.0-katel.0"
+    "@nrwl/storybook" "18.0.0-katel.1"
+    "@nx/cypress" "18.0.0-katel.1"
+    "@nx/devkit" "18.0.0-katel.1"
+    "@nx/eslint" "18.0.0-katel.1"
+    "@nx/js" "18.0.0-katel.1"
     "@phenomnomnominal/tsquery" "~5.0.1"
     semver "7.5.3"
     tslib "^2.3.0"
 
-"@nx/vite@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fvite/-/vite-18.0.0-katel.0.tgz#95c6991717aebd4060eb040ac1076fca7e091264"
-  integrity sha512-RoGq9/8cZ7yM5VcdL86IQFtaCQ513Ee/FUPv7JiB0NUhGBiK9INbfPT9f+zwz2ynlORKnYMpNXskFSOEex8eUQ==
+"@nx/vite@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fvite/-/vite-18.0.0-katel.1.tgz#31d711599a04204e152049e918713ca1a6220883"
+  integrity sha512-4TLTF4EjmOQgLAP18BQ4vQvV+VuKsg4RlxPfmn1v66OKIyW2HQc/KHAAC5vwsaBCCeatMkwvVcIppnZth0UM6w==
   dependencies:
-    "@nrwl/vite" "18.0.0-katel.0"
-    "@nx/devkit" "18.0.0-katel.0"
-    "@nx/js" "18.0.0-katel.0"
+    "@nrwl/vite" "18.0.0-katel.1"
+    "@nx/devkit" "18.0.0-katel.1"
+    "@nx/js" "18.0.0-katel.1"
     "@phenomnomnominal/tsquery" "~5.0.1"
     "@swc/helpers" "~0.5.0"
     enquirer "~2.3.6"
     tsconfig-paths "^4.1.2"
 
-"@nx/web@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fweb/-/web-18.0.0-katel.0.tgz#c940840ca18b37c1790b8cbac6bdeaca3af24199"
-  integrity sha512-mdVLPr5sLRknSFeGHfW3mVLNJsyD5mTZEsdfvNXje3EHzbMahtTIdNW7VoFp8BRqleAeYV+DHOyuPm25blT0iA==
+"@nx/web@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fweb/-/web-18.0.0-katel.1.tgz#a72b5fb482d81bf20ef3af619ca97fd04e2fa9f4"
+  integrity sha512-NfalJsn0iXyvm+pz/P+xZLQFfzfb+XEl6dG03C51jsIjU4TbzcJJqT5Lzh44NAVz/7ci28xJn4K+3KarEbY4Xg==
   dependencies:
-    "@nrwl/web" "18.0.0-katel.0"
-    "@nx/devkit" "18.0.0-katel.0"
-    "@nx/js" "18.0.0-katel.0"
+    "@nrwl/web" "18.0.0-katel.1"
+    "@nx/devkit" "18.0.0-katel.1"
+    "@nx/js" "18.0.0-katel.1"
     chalk "^4.1.0"
     detect-port "^1.5.1"
     http-server "^14.1.0"
     tslib "^2.3.0"
 
-"@nx/webpack@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fwebpack/-/webpack-18.0.0-katel.0.tgz#51e610371af075f017f1ecd27aba006ece6d37f3"
-  integrity sha512-K02obDq0x63ml6Dro4b+iY1gkzOjwV7H4RD6dpHAEw3C5n+hrsCbMUF/3GGT/RnR7XqJAlqUdPqVPDC5dK2+pA==
+"@nx/webpack@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fwebpack/-/webpack-18.0.0-katel.1.tgz#e64e62373c915aa01814d64e1deff6e02d0112a2"
+  integrity sha512-BFKNiWJQEM2fzGAoaKwksfQ0lz9+qf5NLl+jqVwTm/NzQAfr/voTtO6S3woVYp3FXXJmg437mD7SCo0hkGVBBQ==
   dependencies:
     "@babel/core" "^7.22.9"
-    "@nrwl/webpack" "18.0.0-katel.0"
-    "@nx/devkit" "18.0.0-katel.0"
-    "@nx/js" "18.0.0-katel.0"
+    "@nrwl/webpack" "18.0.0-katel.1"
+    "@nx/devkit" "18.0.0-katel.1"
+    "@nx/js" "18.0.0-katel.1"
     autoprefixer "^10.4.9"
     babel-loader "^9.1.2"
     browserslist "^4.21.4"
@@ -3019,16 +3019,16 @@
     webpack-node-externals "^3.0.0"
     webpack-subresource-integrity "^5.1.0"
 
-"@nx/workspace@18.0.0-katel.0":
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/@nx%2fworkspace/-/workspace-18.0.0-katel.0.tgz#155dd460f17bba1d8b787c3ec508582315325ebf"
-  integrity sha512-u0L1MtFGE0CaMa2I3lMrfuNPXCFbC/04HySzhfNE2MkQ7lAl1s3GxUUHC0Xguuc8xbaKj5XR3I1ssRP37/bbeQ==
+"@nx/workspace@18.0.0-katel.1":
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/@nx%2fworkspace/-/workspace-18.0.0-katel.1.tgz#464e89bf50dd68e7f4e48bd446a4a96b8f4b391e"
+  integrity sha512-oVWyGJ05GB4LlmVi4NCfVfO1TvsZ5PXqBoLfECfnlniM7WToZZu4DRKOpkpNmqtDDZEWDkamZNQwVCob9sbuvg==
   dependencies:
-    "@nrwl/workspace" "18.0.0-katel.0"
-    "@nx/devkit" "18.0.0-katel.0"
+    "@nrwl/workspace" "18.0.0-katel.1"
+    "@nx/devkit" "18.0.0-katel.1"
     chalk "^4.1.0"
     enquirer "~2.3.6"
-    nx "18.0.0-katel.0"
+    nx "18.0.0-katel.1"
     tslib "^2.3.0"
     yargs-parser "21.1.1"
 
@@ -12240,12 +12240,12 @@ nwsapi@^2.2.2, nwsapi@^2.2.4:
   resolved "http://localhost:4873/nwsapi/-/nwsapi-2.2.7.tgz#738e0707d3128cb750dddcfe90e4610482df0f30"
   integrity sha512-ub5E4+FBPKwAZx0UwIQOjYWGHTEq5sPqHQNRN8Z9e4A7u3Tj1weLJsL59yH9vmvqEtBHaOmT6cYQKIZOxp35FQ==
 
-nx@18.0.0-katel.0:
-  version "18.0.0-katel.0"
-  resolved "http://localhost:4873/nx/-/nx-18.0.0-katel.0.tgz#8ad467acef1bc8bae623b3606f4920d060a1cd28"
-  integrity sha512-EIQWpdEkSZK/owycF6MpybhR/OONkp5hil5GIZucJXVoOHhd57sioH2F3LojvpTwHxnfHAwL5n7tTlAu0FsZlQ==
+nx@18.0.0-katel.1:
+  version "18.0.0-katel.1"
+  resolved "http://localhost:4873/nx/-/nx-18.0.0-katel.1.tgz#36b63323fbc92064b566f33cf945492127533b01"
+  integrity sha512-Kqt1VvwD4CXHlXglWc29/+vG4+L18V4ifUk8uOsRNHtg/0CFKDcIfWchSF1xrvq3oyyb7Boim7UTJ3bFwmmuig==
   dependencies:
-    "@nrwl/tao" "18.0.0-katel.0"
+    "@nrwl/tao" "18.0.0-katel.1"
     "@yarnpkg/lockfile" "^1.1.0"
     "@yarnpkg/parsers" "3.0.0-rc.46"
     "@zkochan/js-yaml" "0.0.6"
@@ -12280,16 +12280,16 @@ nx@18.0.0-katel.0:
     yargs "^17.6.2"
     yargs-parser "21.1.1"
   optionalDependencies:
-    "@nx/nx-darwin-arm64" "18.0.0-katel.0"
-    "@nx/nx-darwin-x64" "18.0.0-katel.0"
-    "@nx/nx-freebsd-x64" "18.0.0-katel.0"
-    "@nx/nx-linux-arm-gnueabihf" "18.0.0-katel.0"
-    "@nx/nx-linux-arm64-gnu" "18.0.0-katel.0"
-    "@nx/nx-linux-arm64-musl" "18.0.0-katel.0"
-    "@nx/nx-linux-x64-gnu" "18.0.0-katel.0"
-    "@nx/nx-linux-x64-musl" "18.0.0-katel.0"
-    "@nx/nx-win32-arm64-msvc" "18.0.0-katel.0"
-    "@nx/nx-win32-x64-msvc" "18.0.0-katel.0"
+    "@nx/nx-darwin-arm64" "18.0.0-katel.1"
+    "@nx/nx-darwin-x64" "18.0.0-katel.1"
+    "@nx/nx-freebsd-x64" "18.0.0-katel.1"
+    "@nx/nx-linux-arm-gnueabihf" "18.0.0-katel.1"
+    "@nx/nx-linux-arm64-gnu" "18.0.0-katel.1"
+    "@nx/nx-linux-arm64-musl" "18.0.0-katel.1"
+    "@nx/nx-linux-x64-gnu" "18.0.0-katel.1"
+    "@nx/nx-linux-x64-musl" "18.0.0-katel.1"
+    "@nx/nx-win32-arm64-msvc" "18.0.0-katel.1"
+    "@nx/nx-win32-x64-msvc" "18.0.0-katel.1"
 
 nyc@^15.1.0:
   version "15.1.0"
